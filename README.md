@@ -18,7 +18,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-This code is part of the Microsoft Learn module of the AKS workshop. It provides the frontend for the ratings application.  I'm making a change to trigger a S2I build.
+This code is part of the Microsoft Learn module of the AKS workshop. It provides the frontend for the ratings application.  I'm making a change to trigger a S2I build for ALB prep!
 
 ## Contents
 
